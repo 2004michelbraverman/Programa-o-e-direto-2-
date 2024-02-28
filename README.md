@@ -4,3 +4,5 @@ Zero-rating: fornece acesso a internet sem custos finaceiros sobre algumas condi
 Neutralidade da Rede: garante a liberdade e igualdades na rede. Ela assegura que todos tenham as mesmas oportunidades de acessar e compartilhar informações e conteúdos, independentemente de quem são ou do tipo de conteúdo que estão transmitindo.
 Jurimetria:estatística ao universo do Direito para analisar padrões, tendências e comportamentos no campo jurídico, com o objetivo de trazer previsibilidade e auxiliar advogados na tomada de decisões.
 Rede Neural Artificial: é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano.
+redes socias, como funcionam? 
+Os algoritmos das redes sociais utilizam de entrega de conteúdos dependendo da pessoa, então eles vão mandar mais ou menos conteúdos para o usam-se da rede, tentando deixá-lo o maior tempo possível na rede que a pessoa se encontra. 
